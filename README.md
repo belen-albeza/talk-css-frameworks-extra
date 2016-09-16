@@ -1,8 +1,8 @@
 # You might not need a CSS framework
 
-"You might not need a CSS framework" talk by Belén Albeza.
+"You might not need a CSS framework" (extended version) talk by Belén Albeza.
 
-* [See these slides online](https://belen-albeza.github.io/talk-css-frameworks)
+* [See these slides online](https://belen-albeza.github.io/talk-css-frameworks-extra)
 
 Generated with [generator-simple-bespoke](https://github.com/belen-albeza/generator-simple-bespoke).
 
